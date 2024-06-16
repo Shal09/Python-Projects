@@ -1,0 +1,28 @@
+LineCode,StationCode,StationName,SeqNum,DistanceToPrev
+RD,B11,Glenmont,1,0
+RD,B10,Wheaton,2,9334
+RD,B09,Forest Glen,3,8484
+RD,B08,Silver Spring,4,8871
+RD,B07,Takoma,5,7484
+RD,B06,Fort Totten,6,10026
+RD,B05,Brookland-CUA,7,7378
+RD,B04,Rhode Island Ave-Brentwood,8,4553
+RD,B35,NoMa-Gallaudet U,9,5771
+RD,B03,Union Station,10,3548
+RD,B02,Judiciary Square,11,3446
+RD,B01,Gallery Pl-Chinatown,12,1967
+RD,A01,Metro Center,13,1505
+RD,A02,Farragut North,14,4178
+RD,A03,Dupont Circle,15,2487
+RD,A04,Woodley Park-Zoo/Adams Morgan,16,6304
+RD,A05,Cleveland Park,17,3740
+RD,A06,Van Ness-UDC,18,3320
+RD,A07,Tenleytown-AU,19,5841
+RD,A08,Friendship Heights,20,4135
+RD,A09,Bethesda,21,9095
+RD,A10,Medical Center,22,5530
+RD,A11,Grosvenor-Strathmore,23,11821
+RD,A12,North Bethesda,24,7309
+RD,A13,Twinbrook,25,5895
+RD,A14,Rockville,26,10586
+RD,A15,Shady Grove,27,14151
