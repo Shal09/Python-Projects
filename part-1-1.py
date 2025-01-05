@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Replace 'YOUR_API_KEY' with your actual WMATA API key
-API_KEY = 'a777162bfc0a463ab6677306d460aa67'
+API_KEY = 'a7771-API KEY'
 URL = 'https://api.wmata.com/Rail.svc/json/jStations?LineCode=RD'
 
 def fetch_red_line_stations(api_key):
