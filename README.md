@@ -1,7 +1,5 @@
-Assignment 
-In this assignment, you will gather data from an API using requests and then you will do some data manipulation with Pandas. You have to create the API calls using the endpoints urls, headers, and query parameters as appropriate and discussed in class.
 
-You do not need to create a virtual environment for this assignment, but are welcome to do so to practice how to do it. You will need Pandas and requests.
+In this assignment, we will gather data from an API using requests and then we will do some data manipulation with Pandas. You have to create the API calls using the endpoints urls, headers, and query parameters.
 
 **Problem 1
 **In this problem, you will use data from the Washington Metropolitan Area Transit Authority API. There are several servoce endpoints depending on the task to be performed. You can explore the various services here You need to get an API key for this first part:
