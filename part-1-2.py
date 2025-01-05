@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Replace 'YOUR_API_KEY' with your actual WMATA API key
-API_KEY = 'a777162bfc0a463ab6677306d460aa67'
+API_KEY = 'a77_API KEY'
 
 # URLs for WMATA API
 STATIONS_URL = 'https://api.wmata.com/Rail.svc/json/jStations?LineCode=RD'
